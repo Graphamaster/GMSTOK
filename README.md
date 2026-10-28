@@ -1,2 +1,6 @@
 # GMSTOK
-I just want to create a website for shopping as e-commerce
+This is a mobile/web application integrated with Firebase for backend services and authentication.
+## Features
+- Firebase Authentication
+- Real-time Database integration
+- Payment Gateway integration via Razorpay
